@@ -25,6 +25,6 @@ programme = programmeTV.ProgrammeTV()
 print(programme.programme)
 
 ```
-## Example result
+## Example result (lun. 11 juil. 2022)
 
 Show example/exampleResult.json
