@@ -27,4 +27,4 @@ print(programme.programme)
 ```
 ## Example result
 
-Show exampleResult.json
+Show example/exampleResult.json
