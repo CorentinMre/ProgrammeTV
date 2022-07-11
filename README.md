@@ -25,3 +25,6 @@ programme = programmeTV.ProgrammeTV()
 print(programme.programme)
 
 ```
+## Example result
+
+Show exampleResult.json

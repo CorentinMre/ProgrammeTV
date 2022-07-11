@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-#import json
 from datetime import datetime
+#import json
 
 
 class ProgrammeTV:
@@ -30,7 +30,7 @@ class ProgrammeTV:
                 programme[-1]["emmision"].append({"emissionHour" : channelName[1], "emissionName" : channelName[2], "description" : channel.find("description").text})
 
         #with open("data.json", "w") as outfile:
-        #    json.dump(programme, outfile)
+            #json.dump(programme, outfile, indent=4, sort_keys=True)
 
         return programme
 
