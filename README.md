@@ -27,4 +27,4 @@ print(programme.programme)
 ```
 ## Example result (lun. 11 juil. 2022)
 
-Show example/exampleResult.json
+Show exampleResult.json
